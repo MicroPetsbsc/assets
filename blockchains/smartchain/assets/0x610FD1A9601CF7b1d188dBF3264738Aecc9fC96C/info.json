@@ -10,7 +10,7 @@
   "id": "0x610FD1A9601CF7b1d188dBF3264738Aecc9fC96C",
   "links": [
     {
-      "name": "website",
+      "name": "source_code",
       "url": "https://micropets.io"
     },
     {
@@ -27,7 +27,7 @@
     }
   ],
   "tags": [
-    "gaming",
+    "gamefi",
     "nft",
     "staking"
   ]
